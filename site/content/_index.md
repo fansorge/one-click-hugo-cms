@@ -1,7 +1,7 @@
 ---
 title: Developing your ideas, your strategy and your operations
 subtitle: East West Unternehmensberatung GmbH
-image: img/home-jumbotron.jpg
+image: img/background1.png
 blurb:
   heading: Why East West Unternehmensberatung?
   text: Kaldi is the coffee store for everyone who believes that great coffee
